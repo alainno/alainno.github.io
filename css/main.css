@@ -18,6 +18,7 @@ h2{margin-top: 15px;}
 
 /*.col-foto{width: 100px;height: 100px;}*/
 .col-foto a{border:3px solid #fff;display: block;width: 100px;height: 100px;}
+.col-foto img{max-width: 94px;max-height: 94px;}
 
 .row-menu{
 	background: #000;
